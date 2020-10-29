@@ -1,0 +1,27 @@
+
+LoginPage:
+  username : /html/body/form/table/tbody/tr/td/table/tbody/tr[2]/td/table/tbody/tr/td[2]/table/tbody/tr[1]/td[2]/div/input
+  password : /html/body/form/table/tbody/tr/td/table/tbody/tr[2]/td/table/tbody/tr/td[2]/table/tbody/tr[2]/td[2]/div/input
+  loginclick: //*[@id="in1"]
+  loginsu : /html/body/form/table/tbody/tr[1]/td[1]
+
+
+  clientclick : /html/body/form/table/tbody/tr[2]/td/table/tbody/tr/td[2]/table/tbody/tr/td[5]/table/tbody/tr/td/div/a
+  addclick: /html/body/form/table/tbody/tr[1]/td/table/tbody/tr/td[2]/table/tbody/tr/td[4]/input
+  cuName : /html/body/form/table[1]/tbody/tr[2]/td[2]/input
+  cuBirthday: //*[@id="customerBirthday"]
+  cuEmail: /html/body/form/table[1]/tbody/tr[4]/td[4]/input
+  cuAddMan : /html/body/form/table[1]/tbody/tr[8]/td[2]/input
+  subclick: /html/body/form/table[2]/tbody/tr/td[2]/input
+  fram1 : topFrame
+  fram2 : mainFrame
+
+  ckclick: //*[@id="submenu1"]/div/table/tbody/tr[1]/td/table/tbody/tr[2]/td[2]/table/tbody/tr/td/span/a
+  cktext : /html/body/form/table/tbody/tr[3]/td/table/tbody/tr/td[2]/table/tbody/tr/td[1]
+  fram3 : /html/frameset/frameset/frame[1]
+
+
+  clentclick : /html/body/form/table/tbody/tr[2]/td/table/tbody/tr/td[2]/table/tbody/tr/td[5]/table/tbody/tr/td/div/a
+  modclick : /html/body/form/table/tbody/tr[2]/td/table/tbody/tr/td[2]/table/tbody/tr[2]/td[13]/div/span/a[1]
+  staff : customerForUser
+  submclick: submit
